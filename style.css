@@ -1,0 +1,23 @@
+body {
+    font-family: monospace;
+}
+
+.content {
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid lightgray;
+}
+
+button {
+    padding: 15px;
+    margin: 10px;
+    font-weight: 900;
+}
+
+
+h2 {
+    color: limegreen;
+    font-weight: 600;
+}
